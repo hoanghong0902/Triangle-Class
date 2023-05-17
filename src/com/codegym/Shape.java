@@ -1,7 +1,7 @@
 package com.codegym;
 
 public class Shape {
-    private String color = "Black";
+    private String color = "Red";
     public Shape(){
 
     }
